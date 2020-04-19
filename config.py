@@ -1,3 +1,4 @@
+import os
 TOKEN = os.environ.get('BOT_TOKEN')
 
 POST_ID = 701374060537577506
